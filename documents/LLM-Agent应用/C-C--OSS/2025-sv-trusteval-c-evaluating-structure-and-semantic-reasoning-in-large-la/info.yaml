@@ -1,0 +1,36 @@
+papis_id: "ps-3-sv-trusteval-c-evaluating-structure-and-semantic-reasoning-in-large-la"
+ref: "ps-3-sv-trusteval-c-evaluating-structure-and-semantic-reasoning-in-large-la"
+title: "SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large Language Models for Source Code Vulnerability Analysis"
+author:
+  []
+year: 2025
+doi: "10.1109/sp61157.2025.00191"
+url: "https://sp2025.ieee-security.org/accepted-papers.html"
+abstract: "As Large Language Models (LLMs) evolve in understanding and generating code, accurately evaluating their reliability in analyzing source code vulnerabilities becomes in-creasingly vital. While studies have examined LLM capabilities in tasks like vulnerability detection and repair, they often over-look the importance of both structure and semantic reasoning crucial for trustworthy vulnerability analysis. To address this gap, we introduce SV-TRUSTEVAL-C, a benchmark designed to evaluate LLMs' abilities for vulnerability analysis of code written in the C programming language through two key di-mensions: structure reasoning-assessing how models identify relationships between code elements under varying data and control flow complexities; and semantic reasoning-examining their logical consistency in scenarios where code is structurally and semantically perturbed. Our results show that current LLMs are far from satisfactory in understanding complex code relationships and that their vulnerability analyses rely more on pattern matching than on robust logical reasoning. These findings underscore the effectiveness of the SV-TRUSTEVAL-C benchmark and highlight critical areas for enhancing the reasoning capabilities and trustworthiness of LLMs in real-world vulnerability analysis tasks. Our ini-tial benchmark dataset is available at https://huggingface.co/datasets/LLMs4CodeSecurity/SV-TrustEval-C-1.0"
+tags:
+  - "LLM-Agent应用"
+  - "漏洞挖掘-非Fuzzing"
+  - "C-C--OSS"
+  - "Unknown-Unclear"
+  - "csPapers"
+  - "VenuePreprints"
+  - "pdf-attached"
+files:
+  - "sv-trusteval-c-evaluating-structure-and-semantic-reasoning-in-large-la.pdf"
+papersearch_id: 3
+papersearch_source_id: "index2/2025/sp/SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large Language Models for Source Code Vulnerability Analysis"
+papersearch_sources:
+  - "csPapers"
+  - "VenuePreprints"
+papersearch_task_labels:
+  - "LLM/Agent应用"
+  - "漏洞挖掘-非Fuzzing"
+papersearch_target_labels:
+  - "C/C++ OSS"
+  - "Unknown/Unclear"
+papersearch_saved_at: "2026-05-22T08:02:13Z"
+papersearch_relevance_score: 86.28
+papersearch_pdf_url: "https://arxiv.org/pdf/2505.20630"
+papersearch_publisher_pdf_url: ""
+papersearch_status: "synced"
+papersearch_llm_summary: "本文提出SV-TrustEval-C基准，用于评估大语言模型在C语言源代码漏洞分析中的结构推理和语义推理能力。结构推理考察模型识别代码元素关系的能力，语义推理检验逻辑一致性。实验表明，当前LLM在理解复杂代码关系方面表现不佳，其漏洞分析更多依赖模式匹配而非稳健的逻辑推理。该基准揭示了提升LLM在真实漏洞分析任务中推理能力和可信度的关键方向。初始基准数据集已公开。"
