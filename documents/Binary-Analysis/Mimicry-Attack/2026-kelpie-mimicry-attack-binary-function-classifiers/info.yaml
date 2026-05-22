@@ -1,0 +1,35 @@
+archiveprefix: arXiv
+author:
+  - Gabriel Sauger
+  - Jean-Yves Marion
+  - Sazzadur Rahaman
+  - Victor Matrat
+  - Vincent Tourneur
+  - Muaz Ali
+eprint: 2605.18231v1
+files:
+  - kelpie-mimicry-attack-binary-function-classifiers.pdf
+papis_id: 713b5c312a21549894178e832ba46db7
+primaryclass: cs.LG
+ref: kelpie-sauger-2026
+tags:
+  - Binary-Analysis
+  - Mimicry-Attack
+  - Binary-Code-Similarity
+  - Adversarial-ML
+  - Black-Box
+  - Zero-Query
+  - arXiv
+  - pdf-attached
+time-added: 2026-05-22-17:09:47
+title: 'Attacking the First-Principle: A Black-Box Query-Free Targeted Mimicry Attack
+  on Binary Function Classifiers'
+type: misc
+url: https://arxiv.org/abs/2605.18231v1
+year: 2026
+abstract: "Machine-learning-based binary function classifiers are increasingly used to detect vulnerabilities, malicious code, and unauthorized modifications in software systems, but remain vulnerable to adversarial manipulation. The paper introduces Kelpie, a black-box, zero-query targeted mimicry attack framework against binary function classifiers. Kelpie applies semantics-preserving code transformations that keep the payload functional while making it resemble a chosen target function through control-flow mimicry and instruction-distribution alignment. The authors evaluate Kelpie across eight state-of-the-art classifiers and show targeted mimicry in classification and retrieval settings, including case studies on hiding vulnerable functions and malicious payloads."
+papersearch_sources:
+  - arXiv
+papersearch_source_id: 2605.18231v1
+papersearch_pdf_url: https://arxiv.org/pdf/2605.18231v1
+papersearch_status: manually-added
