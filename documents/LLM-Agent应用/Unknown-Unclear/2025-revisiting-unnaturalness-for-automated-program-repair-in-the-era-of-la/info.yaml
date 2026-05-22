@@ -1,0 +1,34 @@
+papis_id: "ps-100-revisiting-unnaturalness-for-automated-program-repair-in-the-era-of-la"
+ref: "ps-100-revisiting-unnaturalness-for-automated-program-repair-in-the-era-of-la"
+title: "Revisiting Unnaturalness for Automated Program Repair in the Era of Large Language Models"
+author:
+  []
+year: 2025
+doi: "10.1109/icse55347.2025.00089"
+url: "https://conf.researchr.org/track/icse-2025/icse-2025-research-track"
+abstract: ""
+tags:
+  - "LLM-Agent应用"
+  - "自动修复"
+  - "Unknown-Unclear"
+  - "csPapers"
+  - "VenuePreprints"
+  - "pdf-missing"
+files:
+  []
+papersearch_id: 100
+papersearch_source_id: "index2/2025/icse/Revisiting Unnaturalness for Automated Program Repair in the Era of Large Language Models"
+papersearch_sources:
+  - "csPapers"
+  - "VenuePreprints"
+papersearch_task_labels:
+  - "LLM/Agent应用"
+  - "自动修复"
+papersearch_target_labels:
+  - "Unknown/Unclear"
+papersearch_saved_at: "2026-05-22T08:02:27Z"
+papersearch_relevance_score: 77.78
+papersearch_pdf_url: ""
+papersearch_publisher_pdf_url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11029753"
+papersearch_status: "pending_pdf"
+papersearch_llm_summary: "该论文重新审视了自动程序修复中“不自然性”的概念，特别是在大语言模型时代。作者探讨了传统基于n-gram的“不自然性”度量在LLM修复场景下的有效性，并提出了新的视角。研究发现，LLM生成的补丁往往更“自然”，但自然性并不总是与正确性相关。论文通过实验分析了不同修复方法（包括基于LLM的方法）的补丁自然性特征，为理解LLM在程序修复中的行为提供了新见解。该工作对改进自动修复技术、尤其是结合LLM的修复策略具有指导意义。"
