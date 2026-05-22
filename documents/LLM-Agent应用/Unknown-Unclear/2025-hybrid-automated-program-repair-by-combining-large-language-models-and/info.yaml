@@ -13,9 +13,9 @@ tags:
   - "静态分析"
   - "Unknown-Unclear"
   - "VenuePreprints"
-  - "pdf-missing"
+  - "pdf-attached"
 files:
-  []
+  - "hybrid-automated-program-repair-by-combining-large-language-models-and.pdf"
 papersearch_id: 1168
 papersearch_source_id: "6b125cdfefa26caf2e6deb2d0390f420813473da"
 papersearch_sources:
@@ -26,9 +26,9 @@ papersearch_task_labels:
   - "静态分析"
 papersearch_target_labels:
   - "Unknown/Unclear"
-papersearch_saved_at: "2026-05-22T08:02:14Z"
+papersearch_saved_at: "2026-05-22T08:27:23Z"
 papersearch_relevance_score: 82.78
 papersearch_pdf_url: ""
 papersearch_publisher_pdf_url: "https://dl.acm.org/doi/pdf/10.1145/3715004"
-papersearch_status: "pending_pdf"
+papersearch_status: "synced"
 papersearch_llm_summary: "该论文提出一种混合自动化程序修复方法，结合大语言模型与程序分析技术。由于摘要缺失，具体方法细节未知，但根据标题和会议背景，推测其利用LLM生成补丁候选，并通过静态分析验证或约束补丁正确性。该方法旨在提升修复的准确性和效率，可能针对常见缺陷类型。局限性包括依赖LLM生成质量以及静态分析的精度。"
