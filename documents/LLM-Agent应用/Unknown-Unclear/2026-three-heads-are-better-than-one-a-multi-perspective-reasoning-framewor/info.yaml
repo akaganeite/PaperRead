@@ -1,0 +1,41 @@
+papis_id: "ps-173-three-heads-are-better-than-one-a-multi-perspective-reasoning-framewor"
+ref: "ps-173-three-heads-are-better-than-one-a-multi-perspective-reasoning-framewor"
+title: "Three Heads Are Better Than One: A Multi-perspective Reasoning Framework for Enhanced Vulnerability Detection"
+author:
+  - "Xin Peng"
+  - "Bo Lin"
+  - "Jing Wang"
+  - "Xiaoling Li"
+  - "Jun Ma"
+  - "Jie Yu"
+  - "Xiaoguang Mao"
+  - "Shangwen Wang"
+year: 2026
+doi: ""
+url: "http://arxiv.org/abs/2605.18153v1"
+abstract: "Automated vulnerability detection is crucial for enhancing software security by identifying potential flaws that attackers could exploit, thereby reducing the reliance on labor-intensive manual code audits. Recent advancements have shifted towards leveraging large language models (LLMs) for vulnerability detection, with techniques like Vul-RAG and VulnSage demonstrating progress through structured prompting and external knowledge integration. However, these approaches typically rely on a single reasoning paradigm, limiting their ability to address the complex and diverse nature of real-world vulnerabilities. To overcome these limitations, we propose ReasonVul, a novel multi-perspective reasoning framework that harnesses cognitive synergy among three specialized LLM agents, each embodying a distinct reasoning mode. The framework begins with independent analyses of the source code, followed by a structured debate mechanism to resolve conflicts through iterative rebuttal and revision, ultimately converging on a collaborative judgment. Evaluated on the PrimeVul dataset, ReasonVul achieves a PairAcc of 40.00% and an F1-score of 72.52%, surpassing the best baseline by 81.24% in PairAcc. Further tests on the JITVUL dataset confirm its generalizability, with a PairAcc of 28.67%. Additionally, we analyzed 542 conflict cases and found that 389 were correctly resolved, highlighting the framework's ability to uncover hidden vulnerabilities through the error-correction mechanism driven by the debate. This work emphasizes the importance of multi-perspective reasoning and collaborative validation in achieving robust and comprehensive vulnerability detection in real-world software systems."
+tags:
+  - "LLM-Agent应用"
+  - "漏洞挖掘-非Fuzzing"
+  - "Unknown-Unclear"
+  - "arXiv"
+  - "VenuePreprints"
+  - "pdf-attached"
+files:
+  - "three-heads-are-better-than-one-a-multi-perspective-reasoning-framewor.pdf"
+papersearch_id: 173
+papersearch_source_id: "2605.18153v1"
+papersearch_sources:
+  - "arXiv"
+  - "VenuePreprints"
+papersearch_task_labels:
+  - "LLM/Agent应用"
+  - "漏洞挖掘-非Fuzzing"
+papersearch_target_labels:
+  - "Unknown/Unclear"
+papersearch_saved_at: "2026-05-22T08:02:12Z"
+papersearch_relevance_score: 92.9
+papersearch_pdf_url: "https://arxiv.org/pdf/2605.18153v1"
+papersearch_publisher_pdf_url: ""
+papersearch_status: "synced"
+papersearch_llm_summary: "ReasonVul是一个多视角推理框架，通过三个专门的大语言模型智能体分别模拟不同推理模式，独立分析源代码后通过结构化辩论机制进行迭代反驳和修订，最终达成协作判断。在PrimeVul数据集上，ReasonVul的PairAcc达到40.00%，F1分数为72.52%，PairAcc比最佳基线提升81.24%。在JITVUL数据集上PairAcc为28.67%，验证了其泛化能力。对542个冲突案例的分析显示，其中389个被正确解决，表明辩论驱动的纠错机制能有效发现隐藏漏洞。该工作强调了多视角推理和协作验证在实现鲁棒且全面的漏洞检测中的重要性。"
