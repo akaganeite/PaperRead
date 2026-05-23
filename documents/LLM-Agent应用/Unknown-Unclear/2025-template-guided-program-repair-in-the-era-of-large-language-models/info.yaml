@@ -12,9 +12,9 @@ tags:
   - "自动修复"
   - "Unknown-Unclear"
   - "VenuePreprints"
-  - "pdf-missing"
+  - "pdf-attached"
 files:
-  []
+  - "template-guided-program-repair-in-the-era-of-large-language-models.pdf"
 papersearch_id: 1061
 papersearch_source_id: "aa5c46df759938f067d750ee41dcc02694af5617"
 papersearch_sources:
@@ -24,9 +24,9 @@ papersearch_task_labels:
   - "自动修复"
 papersearch_target_labels:
   - "Unknown/Unclear"
-papersearch_saved_at: "2026-05-23T13:32:31Z"
+papersearch_saved_at: "2026-05-23T13:51:55Z"
 papersearch_relevance_score: 74.78
 papersearch_pdf_url: ""
 papersearch_publisher_pdf_url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11029846"
-papersearch_status: "pending_pdf"
+papersearch_status: "synced"
 papersearch_llm_summary: ""
