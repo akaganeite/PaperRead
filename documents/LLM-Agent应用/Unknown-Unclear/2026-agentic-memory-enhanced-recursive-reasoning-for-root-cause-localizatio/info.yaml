@@ -1,0 +1,32 @@
+papis_id: "ps-1123-agentic-memory-enhanced-recursive-reasoning-for-root-cause-localizatio"
+ref: "ps-1123-agentic-memory-enhanced-recursive-reasoning-for-root-cause-localizatio"
+title: "Agentic Memory Enhanced Recursive Reasoning for Root Cause Localization in Microservices"
+author:
+  []
+year: 2026
+doi: "10.1145/3786583.3786853"
+url: "https://conf.researchr.org/track/icse-2026/icse-2026-research-track"
+abstract: ""
+tags:
+  - "LLM-Agent应用"
+  - "Root-Cause-Analysis"
+  - "Unknown-Unclear"
+  - "VenuePreprints"
+  - "pdf-attached"
+files:
+  - "agentic-memory-enhanced-recursive-reasoning-for-root-cause-localizatio.pdf"
+papersearch_id: 1123
+papersearch_source_id: "651946491d7cfd9c994b14721e58d54c30d89cea"
+papersearch_sources:
+  - "VenuePreprints"
+papersearch_task_labels:
+  - "LLM/Agent应用"
+  - "Root Cause Analysis"
+papersearch_target_labels:
+  - "Unknown/Unclear"
+papersearch_saved_at: "2026-05-23T11:31:09Z"
+papersearch_relevance_score: 74.06
+papersearch_pdf_url: "https://arxiv.org/pdf/2601.02732"
+papersearch_publisher_pdf_url: ""
+papersearch_status: "synced"
+papersearch_llm_summary: ""
