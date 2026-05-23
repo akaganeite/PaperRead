@@ -1,0 +1,32 @@
+papis_id: "ps-1046-trust-me-i-know-this-function-hijacking-llm-static-analysis-using-bias"
+ref: "ps-1046-trust-me-i-know-this-function-hijacking-llm-static-analysis-using-bias"
+title: "Trust Me, I Know This Function: Hijacking LLM Static Analysis using Bias"
+author:
+  []
+year: 2026
+doi: "10.14722/ndss.2026.242066"
+url: "https://www.ndss-symposium.org/ndss-paper/trust-me-i-know-this-function-hijacking-llm-static-analysis-using-bias/"
+abstract: ""
+tags:
+  - "LLM-Agent应用"
+  - "静态分析"
+  - "Unknown-Unclear"
+  - "VenuePreprints"
+  - "pdf-attached"
+files:
+  - "trust-me-i-know-this-function-hijacking-llm-static-analysis-using-bias.pdf"
+papersearch_id: 1046
+papersearch_source_id: "d2a86178b646b8a94891e0db28a99a27cdd615c4"
+papersearch_sources:
+  - "VenuePreprints"
+papersearch_task_labels:
+  - "LLM/Agent应用"
+  - "静态分析"
+papersearch_target_labels:
+  - "Unknown/Unclear"
+papersearch_saved_at: "2026-05-23T13:51:14Z"
+papersearch_relevance_score: 74.06
+papersearch_pdf_url: "https://www.ndss-symposium.org/wp-content/uploads/2026-f2066-paper.pdf"
+papersearch_publisher_pdf_url: ""
+papersearch_status: "synced"
+papersearch_llm_summary: ""
