@@ -1,0 +1,32 @@
+papis_id: "ps-1061-template-guided-program-repair-in-the-era-of-large-language-models"
+ref: "ps-1061-template-guided-program-repair-in-the-era-of-large-language-models"
+title: "Template-Guided Program Repair in the Era of Large Language Models"
+author:
+  []
+year: 2025
+doi: "10.1109/icse55347.2025.00030"
+url: "https://conf.researchr.org/track/icse-2025/icse-2025-research-track"
+abstract: ""
+tags:
+  - "LLM-Agent应用"
+  - "自动修复"
+  - "Unknown-Unclear"
+  - "VenuePreprints"
+  - "pdf-missing"
+files:
+  []
+papersearch_id: 1061
+papersearch_source_id: "aa5c46df759938f067d750ee41dcc02694af5617"
+papersearch_sources:
+  - "VenuePreprints"
+papersearch_task_labels:
+  - "LLM/Agent应用"
+  - "自动修复"
+papersearch_target_labels:
+  - "Unknown/Unclear"
+papersearch_saved_at: "2026-05-23T13:32:31Z"
+papersearch_relevance_score: 74.78
+papersearch_pdf_url: ""
+papersearch_publisher_pdf_url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11029846"
+papersearch_status: "pending_pdf"
+papersearch_llm_summary: ""
