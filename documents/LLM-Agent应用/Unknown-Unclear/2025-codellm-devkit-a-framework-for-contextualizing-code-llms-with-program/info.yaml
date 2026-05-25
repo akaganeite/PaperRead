@@ -1,0 +1,32 @@
+papis_id: "ps-1167-codellm-devkit-a-framework-for-contextualizing-code-llms-with-program-"
+ref: "ps-1167-codellm-devkit-a-framework-for-contextualizing-code-llms-with-program-"
+title: "Codellm-Devkit: A Framework for Contextualizing Code LLMs with Program Analysis Insights"
+author:
+  []
+year: 2025
+doi: "10.1145/3696630.3728555"
+url: "https://conf.researchr.org/track/fse-2025/fse-2025-research-papers"
+abstract: ""
+tags:
+  - "LLM-Agent应用"
+  - "静态分析"
+  - "Unknown-Unclear"
+  - "VenuePreprints"
+  - "pdf-missing"
+files:
+  []
+papersearch_id: 1167
+papersearch_source_id: "36d7be7bbd387d303316f642d90a2893b8e5feb8"
+papersearch_sources:
+  - "VenuePreprints"
+papersearch_task_labels:
+  - "LLM/Agent应用"
+  - "静态分析"
+papersearch_target_labels:
+  - "Unknown/Unclear"
+papersearch_saved_at: "2026-05-25T12:04:41Z"
+papersearch_relevance_score: 74.78
+papersearch_pdf_url: ""
+papersearch_publisher_pdf_url: "https://dl.acm.org/doi/pdf/10.1145/3696630.3728555"
+papersearch_status: "pending_pdf"
+papersearch_llm_summary: ""
