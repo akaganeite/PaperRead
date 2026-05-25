@@ -1,0 +1,32 @@
+papis_id: "ps-1178-experepair-dual-memory-enhanced-llm-based-repository-level-program-rep"
+ref: "ps-1178-experepair-dual-memory-enhanced-llm-based-repository-level-program-rep"
+title: "ExpeRepair: Dual-Memory Enhanced LLM-based Repository-Level Program Repair"
+author:
+  []
+year: 2026
+doi: "10.48550/arxiv.2506.10484"
+url: "https://conf.researchr.org/track/fse-2026/fse-2026-research-papers"
+abstract: ""
+tags:
+  - "LLM-Agent应用"
+  - "自动修复"
+  - "Unknown-Unclear"
+  - "VenuePreprints"
+  - "pdf-attached"
+files:
+  - "experepair-dual-memory-enhanced-llm-based-repository-level-program-rep.pdf"
+papersearch_id: 1178
+papersearch_source_id: "50322e4440a3cd96b8e328221ed6480161a15d57"
+papersearch_sources:
+  - "VenuePreprints"
+papersearch_task_labels:
+  - "LLM/Agent应用"
+  - "自动修复"
+papersearch_target_labels:
+  - "Unknown/Unclear"
+papersearch_saved_at: "2026-05-25T10:34:24Z"
+papersearch_relevance_score: 76.06
+papersearch_pdf_url: "https://arxiv.org/pdf/2506.10484"
+papersearch_publisher_pdf_url: ""
+papersearch_status: "synced"
+papersearch_llm_summary: ""
