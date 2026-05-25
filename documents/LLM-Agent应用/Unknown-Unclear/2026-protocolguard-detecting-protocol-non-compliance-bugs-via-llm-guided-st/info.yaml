@@ -1,0 +1,32 @@
+papis_id: "ps-1040-protocolguard-detecting-protocol-non-compliance-bugs-via-llm-guided-st"
+ref: "ps-1040-protocolguard-detecting-protocol-non-compliance-bugs-via-llm-guided-st"
+title: "ProtocolGuard: Detecting Protocol Non-compliance Bugs via LLM-guided Static Analysis and Dynamic Verification"
+author:
+  []
+year: 2026
+doi: "10.14722/ndss.2026.240521"
+url: "https://www.ndss-symposium.org/ndss-paper/protocolguard-detecting-protocol-non-compliance-bugs-via-llm-guided-static-analysis-and-dynamic-verification/"
+abstract: ""
+tags:
+  - "LLM-Agent应用"
+  - "静态分析"
+  - "Unknown-Unclear"
+  - "VenuePreprints"
+  - "pdf-missing"
+files:
+  []
+papersearch_id: 1040
+papersearch_source_id: "6bb8784637eab17418bedd78cddc6d295197e550"
+papersearch_sources:
+  - "VenuePreprints"
+papersearch_task_labels:
+  - "LLM/Agent应用"
+  - "静态分析"
+papersearch_target_labels:
+  - "Unknown/Unclear"
+papersearch_saved_at: "2026-05-25T12:10:17Z"
+papersearch_relevance_score: 74.06
+papersearch_pdf_url: ""
+papersearch_publisher_pdf_url: ""
+papersearch_status: "pending_pdf"
+papersearch_llm_summary: ""
