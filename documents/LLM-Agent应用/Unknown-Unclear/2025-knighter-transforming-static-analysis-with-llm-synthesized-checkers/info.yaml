@@ -1,0 +1,32 @@
+papis_id: "ps-67-knighter-transforming-static-analysis-with-llm-synthesized-checkers"
+ref: "ps-67-knighter-transforming-static-analysis-with-llm-synthesized-checkers"
+title: "KNighter: Transforming Static Analysis with LLM-Synthesized Checkers"
+author:
+  []
+year: 2025
+doi: "10.1145/3731569.3764827"
+url: ""
+abstract: ""
+tags:
+  - "LLM-Agent应用"
+  - "静态分析"
+  - "Unknown-Unclear"
+  - "csPapers"
+  - "pdf-attached"
+files:
+  - "knighter-transforming-static-analysis-with-llm-synthesized-checkers.pdf"
+papersearch_id: 67
+papersearch_source_id: "index2/2025/sosp/KNighter: Transforming Static Analysis with LLM-Synthesized Checkers"
+papersearch_sources:
+  - "csPapers"
+papersearch_task_labels:
+  - "LLM/Agent应用"
+  - "静态分析"
+papersearch_target_labels:
+  - "Unknown/Unclear"
+papersearch_saved_at: "2026-05-25T10:36:15Z"
+papersearch_relevance_score: 72.78
+papersearch_pdf_url: "https://arxiv.org/pdf/2503.09002"
+papersearch_publisher_pdf_url: ""
+papersearch_status: "synced"
+papersearch_llm_summary: ""
